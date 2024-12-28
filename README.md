@@ -13,7 +13,7 @@ A fully responsive **Amazon Clone** frontend built using **HTML** and **CSS**. T
   - Footer with additional links and information.
 - Clean and well-structured HTML and CSS code.
 
-## Demo 💻
+## Screenshot 💻
 
 ![image](https://github.com/user-attachments/assets/c39d2053-2cc5-4a69-8166-25aafe325ab5)
 
